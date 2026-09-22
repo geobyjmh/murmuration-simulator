@@ -1,0 +1,10 @@
+"""Shared game settings."""
+
+WIDTH = 800
+HEIGHT = 600
+FPS = 60
+BACKGROUND = (24, 30, 45)
+ICON_COLOR = (70, 190, 255)
+ICON_OUTLINE = (225, 245, 255)
+ICON_RADIUS = 22
+SPEED = 300
