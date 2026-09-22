@@ -10,7 +10,7 @@ Install the dependency:
 python -m pip install -r requirements.txt
 ```
 
-On Windows, you can also double-click `install_pygame.bat`.
+On Windows, you can also double-click `scripts\install_pygame.bat`.
 
 Start the app:
 
